@@ -22,7 +22,7 @@ Lets say that the balance increases by $310 a day amd that he spends the $210 li
 
 He has not deposited any of the money he earns at work, and he has a foolproof system that will last forever.
 
-Now let´s consider condition 2, where a third party investor puts up the initial balance of $50,000 and is only interested in the financial rewards. In this case, we take our commision of $25,000 but leave it where it is . Now, the $50,000 balance will grow by the expected 0.28% per day and the balance will grow in the compound interest way. But the user must work that bit harder, or spend less. Let´s say the user has the same $210 daily limit as the previous user
+Now let´s consider condition 2, where a third party investor puts up the initial balance of $50,000 and is only interested in the financial rewards. In this case, we take our commision of $25,000 and add it to our own balance to which we are runing the same bot.. Now, the $50,000 balance will grow by the expected 0.28% per day and the balance will grow in the compound interest way. But the user must work that bit harder, or spend less. Let´s say the user has the same $210 daily limit as the previous user
 
 
 
